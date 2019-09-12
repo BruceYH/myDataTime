@@ -1,0 +1,8 @@
+﻿  DataTime.cpp
+  Time.cpp
+C:\Users\斯人若彩虹\Desktop\C++\task\DataTmie\Time.cpp(22,17): warning C4804:  “<”: 在操作中使用类型“bool”不安全
+C:\Users\斯人若彩虹\Desktop\C++\task\DataTmie\Time.cpp(31,19): warning C4804:  “<”: 在操作中使用类型“bool”不安全
+  main.cpp
+  正在生成代码...
+C:\Users\斯人若彩虹\Desktop\C++\task\DataTmie\Time.cpp(40,17): warning C4804:  “<”: 在操作中使用类型“bool”不安全
+  DataTmie.vcxproj -> C:\Users\斯人若彩虹\Desktop\C++\task\DataTmie\Debug\DataTmie.exe
